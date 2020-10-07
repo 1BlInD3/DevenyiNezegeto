@@ -26,6 +26,7 @@ namespace WindowsFormsApp7
             // TODO: This line of code loads data into the 'ellenallasMeresDataSet2.Hal2EllenallasTemp' table. You can move, or remove it, as needed.
             this.hal2EllenallasTempTableAdapter2.Fill(this.ellenallasMeresDataSet2.Hal2EllenallasTemp); //rajzszam
             //this.hal2EllenallasTempTableAdapter1.Fill(this.ellenallasMeresDataSet1.Hal2EllenallasTemp); //regi
+            //proba
         }
 
         private void button1_Click(object sender, EventArgs e)
